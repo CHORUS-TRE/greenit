@@ -43,9 +43,9 @@ Carbon footprint (gCO2e) = energy used (kWh) * carbon intensity (gCO2e/kWh)
   - [Training a single AI model can emit as much carbon as five cars in their lifetimes](https://www.technologyreview.com/2019/06/06/239031/training-a-single-ai-model-can-emit-as-much-carbon-as-five-cars-in-their-lifetimes/)
   - [Deep Learning’s Carbon Emissions Problem](https://www.forbes.com/sites/robtoews/2020/06/17/deep-learnings-climate-change-problem/)
   - [On the Dangers of Stochastic Parrots: Can Language Models Be Too Big? ](https://dl.acm.org/doi/10.1145/3442188.3445922)
-    - [LEAF - A New Approach to Achieving Laboratory Sustainability](https://www.sustainabilityexchange.ac.uk/leaf_a_new_approach_to_achieving_laboratory_sus)
-    - [Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://arxiv.org/abs/2311.16863)
-    - [Carbon footprint estimation for computational research](https://www.nature.com/articles/s43586-023-00202-5)
+  - [LEAF - A New Approach to Achieving Laboratory Sustainability](https://www.sustainabilityexchange.ac.uk/leaf_a_new_approach_to_achieving_laboratory_sus)
+  - [Power Hungry Processing: Watts Driving the Cost of AI Deployment?](https://arxiv.org/abs/2311.16863)
+  - [Carbon footprint estimation for computational research](https://www.nature.com/articles/s43586-023-00202-5)
 - Communities: 
   - [2023 Workshop resources](https://www.eicworkshop.info/#resources) on environmental impacts of computing in health & life sciences research
   - [Join an upcoming community of practice](https://forms.gle/rgeqzcpo51gge5Xr6) from Green Algorithms
