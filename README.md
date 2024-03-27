@@ -49,7 +49,7 @@ Carbon footprint (gCO2e) = energy used (kWh) * carbon intensity (gCO2e/kWh)
 - Other
   - [Electricity Map, Climate Impact by Area](https://app.electricitymaps.com/map)
   - [LEAF - A New Approach to Achieving Laboratory Sustainability](https://www.sustainabilityexchange.ac.uk/leaf_a_new_approach_to_achieving_laboratory_sus)
-  - [Digital Ethics Canvas 2023 - Software Design](https://docs.google.com/document/d/1lhGV_xJiiuC98it5RB2TiitIBgu0pjUK8qq-8y-wbPw/edit#heading=h.3oqqml7cc03h)
+  - [Digital Ethics Canvas 2023 - Software Design](https://docs.google.com/document/d/1lhGV_xJiiuC98it5RB2TiitIBgu0pjUK8qq-8y-wbPw/edit#heading=h.3oqqml7cc03h) from [Fairness in Machine Learning](https://docs.google.com/presentation/d/1x1ZWUPWWT8f2z8VkqedKOSUHBH9T9RtcyiwOkySBgV8/edit#slide=id.g250abee30ad_0_140)
 
 
 # Q&A
