@@ -27,7 +27,7 @@ This document aims to outline the process of becoming aware of CHORUS's energy c
     - A medium-sized data centre (15 MW) uses as much water as three average-sized hospitals
 
 ## Formula  
-The carbon footprint of an algorithm depends on two factors: the energy needed to run it and the pollutants emitted when producing such energy. The former depends on the computing resources used (e.g., number of cores, running time, and data center efficiency) while the later, called carbon intensity, depends on the location and production methods used (e.g., nuclear, gas, or coal).
+The carbon footprint of an algorithm depends on two factors: the energy needed to run it and the pollutants emitted when producing such energy. The former depends on the computing resources used (e.g., number of cores, running time, and data center efficiency) while the later, called carbon intensity, depends on the location and production methods used (e.g., nuclear, gas, or coal), see the [Electricity Map by Area](https://app.electricitymaps.com/map)
 
 Carbon footprint (gCO2e) = energy used (kWh) * carbon intensity (gCO2e/kWh)
 
