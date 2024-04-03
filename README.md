@@ -6,17 +6,20 @@ At any rate, the first step is to measure emissions
 
 This document aims to outline the process of becoming aware of CHORUS's energy consumption.
 
-## (Not so fun) Facts
+## (Still) Fun Facts
 
 1. Rebound effect/Jevons paradox: Increased efficiency induces increase in demand enough that resource use is increased, rather than reduced.
-2. Annual Carbon Footprint per person/year
-  - *Data Scientist: 40 tCO2* (source Loïc Lannelongue/green algorithms)
-  - *IPCC target: 2 tCO2* (Intergovernmental Panel on Climate Change)
-  - *Swiss citizen: 14 tCO2* (Source swissinfo)
-3. 65 tCO2e / publication (source EMBL)
-4. "Yeah so, the idea that, somehow, Al is an environmental disaster in the making? Total BS!" Yann LeCun
-5. Environmental impact of computing
-  - Life-cycle footprint of the hardware (>82% of the 54m of tonnes of e-waste are handled by 12-56m informal waste workers worldwide)
+2.
+| Category                      | Carbon Footprint (tCO2) | Source                                     |
+|-------------------------------|------------------------|--------------------------------------------|
+| Data Scientist                | 40                     | Loïc Lannelongue/green algorithms (#1)      |
+| IPCC target                   | 2                      | Intergovernmental Panel on Climate Change  |
+| A Swiss citizen               | 14                     | swissinfo                                   |
+| A scientific publication      | 65                     | EMBL (#2)                             |
+3. "Yeah so, the idea that, somehow, Al is an environmental disaster in the making? Total BS!" Yann LeCun
+4. Environmental impact of computing
+  - Life-cycle footprint of the hardware
+  -   >82% of the 54m of tonnes of e-waste are handled by 12-56m informal waste workers worldwide
   - Long-term data storage
     - UK Biobank: 15 PB by 2025
     - First picture of a black hole: 5 PB
@@ -59,8 +62,9 @@ Carbon footprint (gCO2e) = energy used (kWh) * carbon intensity (gCO2e/kWh)
 
 ## Output
  - How do we communicate ? 
-  - CO2 Sequestration by Trees
   - Units, comparison, etc. ?
+    - eg CO2 sequestration by trees, nb of weeks
+    - human effort, bicycle 8 days a day during 5 days
 
 
 ## Measures
@@ -72,4 +76,9 @@ Carbon footprint (gCO2e) = energy used (kWh) * carbon intensity (gCO2e/kWh)
 
 This document was started at [AMLD2024](2024.appliedmldays.org) at the "Environmentally Sustainable AI" track, and is a growing and collaborative effort. Contributions are welcome.
 
+
+#1 Green Algorithms: Quantifying the Carbon Footprint of Computation Loïc Lannelongue, Jason Grealey, Michael Inouye
+First published: 02 May 2021 https://doi.org/10.1002/advs.202100707
+
+#2 https://www.embl.org/documents/document/2022-energy-and-carbon-footprint-report/
 
