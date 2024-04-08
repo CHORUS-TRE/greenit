@@ -12,10 +12,10 @@ This document aims to outline the process of becoming aware of CHORUS's energy c
 2.
 | Category                      | Carbon Footprint (tCO2) | Source                                     |
 |-------------------------------|------------------------|--------------------------------------------|
-| Data Scientist                | 40                     | Loïc Lannelongue/green algorithms (#1)      |
+| Data Scientist                | 40                     | [Loïc Lannelongue et al./Green Algorithms](https://doi.org/10.1002/advs.202100707) |
 | IPCC target                   | 2                      | Intergovernmental Panel on Climate Change  |
 | A Swiss citizen               | 14                     | swissinfo                                   |
-| A scientific publication      | 65                     | EMBL (#2)                             |
+| A scientific publication      | 65                     | [EMBL](https://www.embl.org/documents/document/2022-energy-and-carbon-footprint-report/) |
 3. "Yeah so, the idea that, somehow, Al is an environmental disaster in the making? Total BS!" Yann LeCun
 4. Environmental impact of computing
   - Life-cycle footprint of the hardware
@@ -75,10 +75,3 @@ Carbon footprint (gCO2e) = energy used (kWh) * carbon intensity (gCO2e/kWh)
 - Asks our provider to supply measures
 
 This document was started at [AMLD2024](2024.appliedmldays.org) at the "Environmentally Sustainable AI" track, and is a growing and collaborative effort. Contributions are welcome.
-
-
-#1 Green Algorithms: Quantifying the Carbon Footprint of Computation Loïc Lannelongue, Jason Grealey, Michael Inouye
-First published: 02 May 2021 https://doi.org/10.1002/advs.202100707
-
-#2 https://www.embl.org/documents/document/2022-energy-and-carbon-footprint-report/
-
